@@ -1,0 +1,13 @@
+[project]
+name = "ObjectExplorer"
+version = "1.0.0"
+description = "Runtime UObject/UFunction browser with hook testing — works across BL2, BL3, WL, and BL4."
+authors = [{ name = "Ty-gone" }]
+dependencies = ["BLimGUI"]
+
+
+[tool.sdkmod]
+license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
+supported_games = ["BL1", "BL2", "TPS", "AoDK", "BL3", "WL", "BL4"]
+coop_support = "ClientSide"
+download = "https://github.com/mantorofficial/ObjectExplorer/raw/refs/heads/main/ObjectExplorer.sdkmod"
