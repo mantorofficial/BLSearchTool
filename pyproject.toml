@@ -1,7 +1,7 @@
 [project]
 name = "ObjectExplorer"
 version = "1.0.0"
-description = "Runtime UObject/UFunction browser with hook testing — works across BL1, BL2, BL3, WL, and BL4."
+description = "Runtime UObject/UFunction browser with hook testing - works across BL1, BL2, BL3, WL, and BL4."
 authors = [{ name = "Ty-gone" }]
 dependencies = [
   "blimgui >= 1.0",
