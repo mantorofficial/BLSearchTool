@@ -1,5 +1,5 @@
 [project]
-name = "ObjectExplorer"
+name = "BLSearchTool"
 version = "1.0.0"
 description = "Runtime UObject/UFunction browser with hook testing - works across BL1, BL2, BL3, WL, and BL4."
 authors = [{ name = "Ty-gone" }]
@@ -12,4 +12,4 @@ dependencies = [
 license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
 supported_games = ["BL1", "BL2", "TPS", "AoDK", "BL3", "WL", "BL4"]
 coop_support = "ClientSide"
-download = "https://github.com/mantorofficial/ObjectExplorer/raw/refs/heads/main/ObjectExplorer.sdkmod"
+download = "https://github.com/mantorofficial/BLSearchTool/raw/refs/heads/main/BLSearchTool.sdkmod"
