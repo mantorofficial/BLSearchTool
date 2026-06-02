@@ -12,4 +12,4 @@ dependencies = [
 license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
 supported_games = ["BL1", "BL2", "TPS", "AoDK", "BL3", "WL", "BL4"]
 coop_support = "ClientSide"
-download = "https://github.com/mantorofficial/BLSearchTool/raw/refs/heads/main/BLSearchTool.sdkmod"
+download = "https://raw.githubusercontent.com/mantorofficial/BLSearchTool/main/BLSearchTool.sdkmod"
